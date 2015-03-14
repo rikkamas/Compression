@@ -1,0 +1,9 @@
+c:\users\emmett\documents\visual studio 2013\Projects\Compresson\Compresson\bin\Debug\Compresson.exe.config
+c:\users\emmett\documents\visual studio 2013\Projects\Compresson\Compresson\obj\Debug\Compresson.csprojResolveAssemblyReference.cache
+c:\users\emmett\documents\visual studio 2013\Projects\Compresson\Compresson\obj\Debug\Compresson.Properties.Resources.resources
+c:\users\emmett\documents\visual studio 2013\Projects\Compresson\Compresson\obj\Debug\Compresson.csproj.GenerateResource.Cache
+c:\users\emmett\documents\visual studio 2013\Projects\Compresson\Compresson\bin\Debug\Compresson.exe
+c:\users\emmett\documents\visual studio 2013\Projects\Compresson\Compresson\bin\Debug\Compresson.pdb
+c:\users\emmett\documents\visual studio 2013\Projects\Compresson\Compresson\obj\Debug\Compresson.exe
+c:\users\emmett\documents\visual studio 2013\Projects\Compresson\Compresson\obj\Debug\Compresson.pdb
+C:\Users\Emmett\documents\visual studio 2013\Projects\Compresson\Compresson\obj\Debug\Compresson.frmCompressorForm.resources
